@@ -1,0 +1,4 @@
+Coton leaf diseased
+Coton plant diseased
+Coton plant fresh
+Coton leaf fresh

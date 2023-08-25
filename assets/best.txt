@@ -1,0 +1,56 @@
+0 Anthracnose_mango_disease
+1 Bacterial Canker mango
+2 Common_Rust
+3 Corn_Blight
+4 Corn__common_rust
+5 Corn__gray_leaf_spot
+6 Corn__healthy
+7 Corn__northern_leaf_blight
+8 Cutting Weevil mango
+9 Die Back mango
+10 Downy mildew on lettuce
+11 Gall Midge mango
+12 Lettuce_Bacterial
+13 Lettuce_Viral
+14 Lettuce_healthy
+15 Mango__diseased
+16 Mango__healthy
+17 Orange_blackspot
+18 Orange_canker
+19 Orange_fresh
+20 Orange_grenning
+21 Powdery Mildew
+22 Rice_Stemfly_insect_pest
+23 Rice__brown_spot
+24 Rice__healthy
+25 Rice__hispa
+26 Rice__leaf_blast
+27 Rice__neck_blast
+28 Septoria Blight on lettuce
+29 Sooty Mould
+30 Tomato__bacterial_spot
+31 Tomato__early_blight
+32 Tomato__healthy
+33 Tomato__late_blight
+34 Tomato__leaf_mold
+35 Tomato__mosaic_virus
+36 Tomato__septoria_leaf_spot
+37 Tomato__spider_mites_(two_spotted_spider_mite)
+38 Tomato__target_spot
+39 Tomato__yellow_leaf_curl_virus
+40 Wilt and leaf blight on lettuce
+41 asiatic_rice_borer_insect_pest
+42 corn_borer_insect_pest
+43 diseased cotton leaf
+44 diseased cotton plant
+45 fresh cotton leaf
+46 fresh cotton plant
+47 mango_insect_pest
+48 powdery mildew on lettuce
+49 rice_gall_midge_insect_pest
+50 rice_leaf_caterpillar_insect_pest
+51 rice_leaf_roller_insect_pest
+52 rice_leafhopper_insect_pest
+53 rice_shell_pest_insect_pest
+54 rice_water_weevil_insect_pest
+55 yellow_rice_borer_insect_pest
